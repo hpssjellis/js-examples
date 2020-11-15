@@ -4,6 +4,8 @@ Got working on Gitpages Nov 14th, 2020. The main github is at
 
 https://github.com/hpssjellis/js-examples
 
+Demo page here https://hpssjellis.github.io/js-examples/modules
+
 
 .
 
