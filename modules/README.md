@@ -1,4 +1,17 @@
 # JavaScript module examples
+
+Got working on Gitpages. The main github is at 
+
+https://github.com/hpssjellis/js-examples
+
+
+.
+
+.
+
+
+
+
 The "modules" directory contains a series of examples that explain how [JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules) are used. The subdirectories are as follows:
 
 * [basic-modules](basic-modules): Simple example that demonstrates module basics, including default exports ([run the example live](http://mdn.github.io/js-examples/modules/basic-modules)).
