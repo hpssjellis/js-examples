@@ -1,6 +1,6 @@
 # JavaScript module examples
 
-Got working on Gitpages. The main github is at 
+Got working on Gitpages Nov 14th, 2020. The main github is at 
 
 https://github.com/hpssjellis/js-examples
 
