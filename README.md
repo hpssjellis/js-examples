@@ -1,6 +1,9 @@
 # js-examples
 This repository contains examples of JavaScript usage.
 
+Changed by Rocksetta Nov 14th, 2020
+
+Gitpages demo at:
 
 demo  https://hpssjellis.github.io/js-examples/modules
 
